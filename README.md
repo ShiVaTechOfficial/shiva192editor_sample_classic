@@ -31,3 +31,6 @@ This repo contains a collection of classic ShiVa 1.9.2 demos that came pre-insta
 
 # License
 The ShiVa license applies to all of these STE packages (code is free to use, but art assets are not). 
+
+# Screenshots
+![car](screenshots/car.png) ![paint](screenshots/paint.png) ![projector](screenshots/projector.png)
